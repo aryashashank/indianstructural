@@ -1,0 +1,147 @@
+.homeBanner, .carousel-inner{
+
+	max-height:100vh;
+	width:98.9vw;
+	overflow:hidden;
+}
+
+img{
+width:100vw;
+height:100%;
+}
+
+.navbar{
+	position:fixed;
+	z-index:1000;
+}
+.introBoxes{
+	width:100vw;
+}
+
+
+.box-wrapper{
+	margin-top:-120px;
+	padding:50px;
+
+}
+.box{
+	margin-top:10px;
+}
+.thumbnail{
+	border:none;
+	background: transparent;
+	padding:0 20px;
+}
+.caption p{
+	text-align: justify;
+}
+.caption h3{
+	text-align: center;
+}
+
+
+
+
+.headings{
+	text-align: center;
+	font-size: 30px;
+}
+
+
+/*Corousal*/
+
+.btn{
+	float: right;
+	margin: 5px;
+}
+
+
+.Carousel { 
+
+	float: left; overflow: hidden; padding:15px; width: 100%; }
+
+.Carousel-inner { transition: 1s ease all; float: left; 
+margin-top:30px;
+}
+
+    .Carousel-inner .item { float: left; 
+     text-align:center; 
+ }
+    
+    .leftLst, .rightLst { margin-top:15px;}
+
+    .Carousel div{
+    	text-align:center;
+    }
+/*Corousal end*/
+
+
+
+.fa{
+	width:35px;
+	margin:2px;
+	font-size:30px;
+}
+.fa:hover{
+	opacity:0.5;
+}
+.fa-map-marker{
+	color: rgb(41, 142, 255);
+}
+.add,.fa-envelope{
+	color:#4a4a4a;
+}
+.fa-phone{
+	color:#4a4a4a;
+}
+.fa-facebook-square{
+	color:#3b5998;
+}
+
+.designed-by,.designed-by>a{
+	text-align:center;
+	font-size:14px;
+	background:#4a4a4a;
+	color:white;
+		text-decoration:underline;	
+}
+.navbar-default{
+	background: transparent;
+	border-color: transparent;
+}
+
+.view{
+	display:fixed;
+	top:0;
+}
+.footer-inner{
+	padding:2%;
+}
+#footerLogo{
+	width:100px;
+	height:100px;
+}
+footer {
+  color:#292c2f;
+	background: white;
+}
+
+footer p {
+   color:#292c2f;
+	font-size:14px;
+	font-weight:700;
+}
+
+.logo-foot{
+	margin:auto;
+}
+.address-footer,.address-footer>p{
+	display:inline-block;
+	margin-top:3px;
+}
+	
+
+
+
+
+
