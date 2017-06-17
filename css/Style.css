@@ -13,6 +13,25 @@ height:100%;
 	 text-transform: uppercase;
 
 }
+.cover1{
+	background:url(/img/cover1.jpg) no-repeat;
+}
+
+.cover2{
+	background:url(/img/cover2.jpg) no-repeat;
+}
+
+.cover3{
+	background:url(/img/cover3.png) no-repeat;
+}
+.cover{
+	text-align: center;
+	color:white;
+	background-size: cover;
+	height:100vh;
+	width:98.9vw; 
+	background-position: 0 -150px;
+}
 
 .navbar{
 	position:fixed;
